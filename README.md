@@ -11,9 +11,9 @@ Based on the performance it can be concluded that the model performs a good job 
 
 ## 2.	Task 2
 To find relationship between mortality rate **(cancer, Alzheimer's disease and obesity)**. 
-*	**Cancer: **There are 300 observations (50 States and 6 years from 2014 to 2019)
-*	**Alzheimer's disease: **There are 300 observations (50 States and 6 years from 2014 to 2019)
-*	**Obesity: **There are 50 observations (50 States and 1 year that is 2019)
+*	**Cancer:** There are 300 observations (50 States and 6 years from 2014 to 2019)
+*	**Alzheimer's disease:** There are 300 observations (50 States and 6 years from 2014 to 2019)
+*	**Obesity:** There are 50 observations (50 States and 1 year that is 2019)
 
 
 ## 3.	Task 4
