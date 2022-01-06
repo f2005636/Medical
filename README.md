@@ -1,6 +1,6 @@
 # Medical - Assignments
 
-For each task the \u codes, data and documentation are in the corresponding folders.  
+For each task the  **codes, data and documentation** are in the corresponding folders.  
 
 
 ## 1.	Task 1
