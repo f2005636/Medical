@@ -16,7 +16,7 @@ To find relationship between mortality rate **(cancer, Alzheimer's disease and o
 *	**Obesity:** There are 50 observations (50 States and 1 year that is 2019)
 
 
-## 3.	Task 4
+## 3.	Task 3
 To train a classifier on the dataset to predict the probability of **Parkinson disease**. 
 
 Based on the performance it can be concluded that the model performs a good job at classifying the Parkinson disease as Patients (1) or Healthy (0)
